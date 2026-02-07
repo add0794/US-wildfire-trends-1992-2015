@@ -1,0 +1,6 @@
+kagglehub
+pandas
+sqlite3
+matplotlib
+scipy
+sklearn
