@@ -28,8 +28,8 @@ wildfires_in_the_states/
 ### 1) Clone
 
 ```bash
-git clone <repository-url>
-cd wildires_in_the_states
+git clone https://github.com/add0794/US-wildfire-trends-1992-2015.git
+cd US-wildfire-trends-1992-2015-main
 ```
 
 ### 2) Create and activate virtual environment
