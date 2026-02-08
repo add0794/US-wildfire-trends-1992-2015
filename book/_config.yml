@@ -1,0 +1,19 @@
+title: "Wildfires in the United States (1992–2015)"
+author: "Alex Dubro"
+logo: ""
+
+execute:
+  execute_notebooks: "off"   # safer/faster for publishing static outputs
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+repository:
+  url: https://github.com/add0794/wildires_in_the_states
+  branch: main
+
+parse:
+  myst_enable_extensions:
+    - dollarmath
+    - amsmath

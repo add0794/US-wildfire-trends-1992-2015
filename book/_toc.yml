@@ -1,0 +1,8 @@
+site:
+  title: Wildfires in the States
+
+project:
+  authors:
+    - Alex Dubro
+  toc:
+    - file: project.ipynb
