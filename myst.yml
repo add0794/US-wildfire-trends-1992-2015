@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: Wildfires in the States
+  toc:
+    - file: project.ipynb
+  execute:
+    cache: true
+
+site:
+  template: book-theme
