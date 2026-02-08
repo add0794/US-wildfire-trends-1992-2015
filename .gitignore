@@ -208,8 +208,6 @@ __marimo__/
 
 # MyST documentation
 # MyST build artifacts
-_build/
-myst.yml
 
 # Testing files
 
